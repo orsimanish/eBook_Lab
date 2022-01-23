@@ -1,8 +1,8 @@
 /*
-Theme Name:       SlickBiz - Bootstrap 4 Template
-Author:           UIdeck
-Author URI:       http://uideck.com
-Text Domain:      UIdeck
+Theme Name:       eBook Lab Publication
+Author:          Orsi Manish
+Author URI:       https://www.ebooklab.in
+Text Domain:     eBook Lab Publication
 Domain Path:      /languages/
 */
 /* ==========================================================================
@@ -750,14 +750,14 @@ button:focus {
    Showcase 
    ========================================================================== */
 #showcase {
-  padding-bottom: 375px; }
+  padding-bottom: 300px; }
   #showcase .right-position {
     position: relative; }
   #showcase .showcase-area {
     position: absolute;
     width: 97%;
     z-index: 12;
-    top: 260px;
+    top: 200px;
     margin: 0px auto; }
   #showcase .showcase-text h2 {
     color: #fff; }
@@ -765,7 +765,7 @@ button:focus {
     color: #fff; }
   #showcase .gradient-bg {
     background: #5533ff;
-    background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
+    background: linear-gradient(95deg, #000000 40%, #25ddf5 100%);
     padding: 119px 0px 80px 0px; }
   #showcase .showcase-slider .owl-controls .owl-page.active span, #showcase .showcase-slider .owl-controls.clickable .owl-page:hover span {
     filter: Alpha(Opacity=100);
