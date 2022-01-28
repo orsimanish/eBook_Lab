@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Testing.html
+Sitemap: https://www.ebooklab.in/sitemap.xml
