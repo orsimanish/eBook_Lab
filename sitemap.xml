@@ -28,10 +28,5 @@
 		<priority>1.0</priority>
 		<changefreq>monthly</changefreq>
 	</url>
-	<url>
-		<loc>https://www.ebooklab.in/Hackers_Guide_to_Hacking.html</loc>
-		<lastmod>2022-01-28</lastmod>
-		<priority>1.0</priority>
-		<changefreq>monthly</changefreq>
-	</url>
+	
 </urlset>
