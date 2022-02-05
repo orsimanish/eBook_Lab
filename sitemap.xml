@@ -29,4 +29,11 @@
 		<changefreq>monthly</changefreq>
 	</url>
 	
+	<url>
+		<loc>https://www.ebooklab.in/Vidya_Sagar.html</loc>
+		<lastmod>2022-02-5</lastmod>
+		<priority>1.0</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	
 </urlset>
